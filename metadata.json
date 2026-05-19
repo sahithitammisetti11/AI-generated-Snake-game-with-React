@@ -1,0 +1,6 @@
+{
+  "name": "Neon Snake & Grooves",
+  "description": "A Music Player and a Snake Game combined with a dark neon aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
